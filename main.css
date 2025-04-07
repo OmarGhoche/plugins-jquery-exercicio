@@ -11,7 +11,7 @@ body {
 }
 
 header {
-    background-color: #007bff;
+    background-color: darkturquoise;
     color: #fff;
     text-align: center;
     padding: 20px 0;
@@ -28,7 +28,7 @@ h2 {
     margin: 0 auto;
     padding: 20px;
     margin-top: 30px;
-    background-color: #fff;
+    background-color: lightblue;
     box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
 }
 
@@ -45,12 +45,12 @@ h2 {
 .form-campo input {
     width: 100%;
     padding: 10px;
-    border: 1px solid #ccc;
+    border: 1px solid khaki;
     border-radius: 5px;
 }
 
 .container button {
-    background-color: #007bff;
+    background-color: coral;
     color: white;
     padding: 10px 20px;
     border: none;
@@ -60,5 +60,5 @@ h2 {
 }
 
 .error {
-    color: red
+    color: orchid;
 }
