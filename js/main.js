@@ -39,6 +39,12 @@ $(document).ready(function () {
                 required: true
             },
         },
+        messages : {
+            nome: 'Por favor, insira seu nome',
+              email: 'Por favor, insira seu email',
+              telefone: 'Por favor, insira seu telefone',
+                cpf :'Por favor, insira seu CPF',
+        },
         submitHandler: function (form) {
             alert("Sua requisição foi enviada para análise, parabéns pela aquisição!");
             form.reset();
